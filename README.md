@@ -27,7 +27,7 @@
 </div>
 <!--iconos del stack tecnológico-->
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,github,html,idea,java,js,linux,mysql,py,vscode&perline=14" />
   </a>
 </p>
