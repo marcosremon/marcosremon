@@ -4,8 +4,8 @@
 <!--h1 without bottom border-->
 
 <div id="user-content-toc">
-  <ul align="left">
-    <p align="center"><summary><h1 style="display: inline-block">Hola, Soy Marcos Remón</h1></summary></p>
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hola, Soy Marcos Remón</h1></summary>
   </ul>
 </div>
 
