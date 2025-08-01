@@ -28,7 +28,7 @@
 <!--iconos del stack tecnológico-->
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=git,flutter,github,html,idea,java,linux,mysql,py,vscode,c#&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,flutter,github,html,idea,java,linux,mysql,py,vscode,cs&perline=14" />
   </a>
 </p>
 
