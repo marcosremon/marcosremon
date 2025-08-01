@@ -28,11 +28,11 @@
 <!--iconos del stack tecnológico-->
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=cs,flutter,java,py,mysql,html,linux,github,git,vs,vscode,idea&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cs,flutter,java,py,mysql,html,linux,github,git,vscode,idea&perline=14" />
   </a>
 </p>
 
 <br>
 
 <!--horizontal divider (gradiente)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
